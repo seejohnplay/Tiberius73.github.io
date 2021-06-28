@@ -4,24 +4,6 @@
   object-fit: contain;
 }
 
-/*figure what css you dont need. still need media query to pass. CLEAN!*/
-
-/*header {
-  display: flex;
-}
-.img-fluid {
-  max-width: 100%; 
-  height: auto;
-}
-
-#imgFlo {
-  
-  width: 500px;
-  height: 200vh;
-  padding-left: 900px;
-}
-
-*/
 #welcome-section {
   font-family: Roboto Mono, monospace;
   font-size: 25px;
@@ -29,63 +11,7 @@
   background: red;
   height: auto;
   text-align: auto;
-} /*
-
-p {
-  font-family: "Roboto Mono", monospace;
-  text-align: center;
-  padding-right: 600px;
-  padding-bottom: 50px;
-}
-#navbar {
-  font-size: 30px;
-  text-align: left;
-  color: red;
-  background: ;
-  width: 90%;
-
-  position: fixed;
-  top: 0;
-}
-
-#projects {
-  flex: 1;
-  font-size: 35px;
-  background: grey;
-  text-align: center;
-  height: 400px;
-}
-
-.project-title {
-  font-family: "Roboto Mono", monospace;
-  font-size: 25px;
-  color: black;
-  background: grey;
-  height: 100vh;
-  text-align: center;
-}
-#imgVlad {
-  height: 70vh;
-}
-
-#imgLanding {
-  height: 70vh;
-}
-
-#imgTechnical {
-  height: 70vh;
-}
-
-p1 {
-  font-family: "Roboto Mono", monospace;
-  text-align: center;
-}
-
-footer {
-  background: yellow;
-  text-align: center;
-  width: auto;
-}*/
+} 
 
 @media (min-width: 600px) {
   p {
